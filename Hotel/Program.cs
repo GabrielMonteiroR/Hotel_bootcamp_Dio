@@ -24,7 +24,7 @@ class Program
 
 
         //CRIANDO A RESERVA
-        Reserva reservation = new Reserva(20);
+        Reserva reservation = new Reserva(350);
         reservation.RegisterSuites(suite);
         reservation.RegisterGuests(guestList);
 
